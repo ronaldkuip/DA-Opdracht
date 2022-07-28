@@ -12,3 +12,4 @@ public class Calculator {
                 .reduce(1, (a, b) -> a * b);
     }
 }
+// Change made in github (suggesting external changes, uploaded)
